@@ -1,0 +1,5 @@
+C:/Users/BusinessB4Pleasure/Documents/DesignPatterns/cmake-build-debug/CMakeFiles/DesignPatterns.dir
+C:/Users/BusinessB4Pleasure/Documents/DesignPatterns/cmake-build-debug/CMakeFiles/OpenClosed.dir
+C:/Users/BusinessB4Pleasure/Documents/DesignPatterns/cmake-build-debug/CMakeFiles/Single.dir
+C:/Users/BusinessB4Pleasure/Documents/DesignPatterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BusinessB4Pleasure/Documents/DesignPatterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
