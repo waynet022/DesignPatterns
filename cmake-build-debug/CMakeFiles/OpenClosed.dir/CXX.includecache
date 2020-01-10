@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BusinessB4Pleasure/Documents/DesignPatterns/SOLIDDesignPrinciples/OpenClosed.cpp
+iostream
+-
+string
+-
+vector
+-
+

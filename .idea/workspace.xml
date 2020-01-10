@@ -13,7 +13,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="435713a2-cc1a-4fac-a5fe-89413d135e2e" name="Default Changelist" comment="" />
+    <list default="true" id="435713a2-cc1a-4fac-a5fe-89413d135e2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOLIDDesignPrinciples/OpenClosed.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/SOLIDDesignPrinciples/OpenClosed.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenClosed.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OpenClosed.dir/depend.make" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +28,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WD0QzLuVPZAoQxNdZsKpAIESK3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
@@ -78,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578668845408</updated>
-      <workItem from="1578668846774" duration="2596000" />
+      <workItem from="1578668846774" duration="6440000" />
     </task>
     <servers />
   </component>
@@ -90,22 +100,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="100" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1578669722894" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1578671323141">
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom" timestamp="1578676008110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578671323141" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1578671323141">
+    <state width="1237" height="167" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578676008110" />
+    <state width="1237" height="167" key="GridCell.Tab.0.center" timestamp="1578676008110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578671323141" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1578671323141">
+    <state width="1237" height="167" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578676008110" />
+    <state width="1237" height="167" key="GridCell.Tab.0.left" timestamp="1578676008110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578671323141" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1578671323141">
+    <state width="1237" height="167" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578676008110" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right" timestamp="1578676008110">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578671323141" />
+    <state width="1237" height="167" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578676008110" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1578670219902">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
